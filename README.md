@@ -6,10 +6,14 @@ Aspiring Data Analyst with experience in R, SQL, AI- driven workflows, and data 
 
 # Projects
 
-# Food Insecurity Data Analysis
+# Academic Analysis: Food Insecurity 
 - Tools: R, Excel
 - Analyzed county-level demographic data to study food insecurity trends among children and senior populations
 - Created visual reports for regional insights
+
+# Academic Analysis: Numercal Analysis 
+
+# Independent Analysis: AI Workflows
 
 ---
 
