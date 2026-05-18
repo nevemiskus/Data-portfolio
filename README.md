@@ -21,6 +21,7 @@ Aspiring Data Analyst with experience in R, SQL, AI- driven workflows, and data 
 - SQL
 - R
 - Excel
+- Matlab
 - Data Visualization
 - Data Cleaning
 - AI-assisted analytics tools
