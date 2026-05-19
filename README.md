@@ -11,8 +11,6 @@ Aspiring Data Analyst with experience in R, SQL, AI- driven workflows, and data 
 - Analyzed county-level demographic data to study food insecurity trends among children and senior populations
 - Created visual reports for regional insights
 
-# Academic Analysis: Numercal Analysis 
-
 # Independent Analysis: AI Workflows
 
 ---
